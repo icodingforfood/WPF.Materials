@@ -3,6 +3,10 @@ A WPF implementation of the new "Materials" in UWP / Fluent Design. The initial 
 
 This WPF library consists of a primary Custom Control and several styles - each style gives you access to different materials.
 
+## Using WPF.Materials
+See [the usage guide](examples.md) for usage instructions and examples.
+
+
 ## Acrylic Material
 ![](Acrylic-001.png)
 An `AcrylicContainer` over normal WPF controls.
