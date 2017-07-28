@@ -1,7 +1,7 @@
 # WPF.Materials
 A WPF implementation of the new "Materials" in UWP / Fluent Design. The initial library will contain Acrylic, Paint, Smoke, and Metal, with more materials added later.
 
-![WPF.Materials](WPF-Materials-001a.png)
+![WPF.Materials](images/WPF-Materials-001a.png)
 
 This WPF library consists of a primary Custom Control and several styles - each style gives you access to different materials.
 
@@ -13,13 +13,13 @@ See [the usage guide](Examples.md) for usage instructions and examples.
 
 
 ## Acrylic Material
-![](Acrylic-001.png)
+![](images/Acrylic-001.png)
 An `AcrylicContainer` over normal WPF controls.
 
-![](Acrylic-003.png)
+![](images/Acrylic-003.png)
 Low blur.
 
-![](Acrylic-002.png)
+![](images/Acrylic-002.png)
 High blur value.
 
 ## Paint Material
