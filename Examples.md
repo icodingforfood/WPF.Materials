@@ -3,9 +3,9 @@
 Using `AcrylicContainer` is quite simple. It behaves just like a `Border` control, but require a couple of small steps to set up.
 
 ### Rules and Requirements
-- The `AcrylicContainer` cannot be in the same lineage as the RootPanel it will "blur". Setting up a pseudo-root object as shown in the example below is recommended.
-- The RootPanel object (generally a container or panel) must be specified. This can be done by code or by binding.
-- Use the AcrylicContainer sparingly. It can be resource-hungry, especially on older GPUs.
+- The `AcrylicContainer` cannot be in the same lineage as the `RootPanel` it will "blur". Setting up a pseudo-root object as shown in the example below is recommended.
+- The `RootPanel` object (generally a container or panel) must be specified. This can be done in code-behind or with binding.
+- Use the `AcrylicContainer` sparingly. It can be resource-hungry, especially on older GPUs.
 
 ### Example
 ```XAML
